@@ -1,0 +1,11 @@
+*.dart linguist-language=Dart
+
+android/** linguist-vendored
+ios/** linguist-vendored
+web/** linguist-vendored
+windows/** linguist-vendored
+linux/** linguist-vendored
+macos/** linguist-vendored
+
+/build/ linguist-generated
+.dart_tool/** linguist-generated
